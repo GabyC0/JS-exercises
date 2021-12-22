@@ -125,7 +125,7 @@ const myAnswerForExercise22 = false;
 // Congrats, you made it to the end!
 // Did you find this easy or hard? If you used references, which ones helped you?
 // Please answer in a comment below.
-//The only resource I used was the console.
+//I found this fairly easy. The only resource I used was the console.
 
 // Email your file to the course staff,
 // or commit your file to GitHub and email us a link.
