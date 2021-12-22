@@ -23,7 +23,5 @@ function calculateGrade(numGrade) {
 }
 console.log(calculateGrade(95));
 console.log(calculateGrade(45));
-console.log(calculateGrade(85));
-console.log(calculateGrade(75));
-console.log(calculateGrade(65));
+console.log(calculateGrade(20));
 
